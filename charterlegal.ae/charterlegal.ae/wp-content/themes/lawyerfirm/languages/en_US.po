@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lawyerfirm\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-04 13:08+0000\n"
+"PO-Revision-Date: 2022-06-04 13:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: lawyerfirm"
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:129
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:131
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:140
+msgid "lawyerfirm Footer Widget"
+msgstr ""
+
+#: functions.php:142
+msgid "Shows Widgets in Footer"
+msgstr ""
+
+#: functions.php:197
+msgctxt "Cormorant Garamond font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:200
+msgctxt "DM Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:297
+msgid "Add Footer Widget"
+msgstr ""
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:53
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. %s: search query.
+#: search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: header.php:42
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:118
+msgid "Close Menu"
+msgstr ""
+
+#: footer.php:52
+msgid "Powered By WordPress"
+msgstr ""
+
+#: footer.php:53
+msgid " | "
+msgstr ""
+
+#: footer.php:54
+msgid "Lawyer Firm"
+msgstr ""
+
+#: single.php:36 single.php:79
+msgid "Previous:"
+msgstr ""
+
+#: single.php:37 single.php:80
+msgid "Next:"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Show Title & Tagline"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Header Section"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Blog Cards"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Show Featured Image in Blog Cards and Single Posts Page"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "Show Date Meta in Blog Cards and Single Posts Page"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Show Author Meta in Blog Cards and Single Posts Page"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Show Excerpts in Blog Cards"
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Single Posts"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Show Sidebar in Single Posts Page"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "Preloader Section"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Show Pre-Loader"
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Prefooter Section"
+msgstr ""
+
+#: inc/customizer.php:266
+msgid "Show Prefooter Section"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Copyright text can be changed in Premium Version only"
+msgstr ""
+
+#: inc/lawyerfirm-menu.php:372
+msgid "Add a menu"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: elementor/lawyerfirm-elementor-blog.php:22
+msgid "Blog"
+msgstr ""
+
+#: elementor/lawyerfirm-elementor-blog.php:47
+msgid "Blog Content"
+msgstr ""
+
+#: elementor/lawyerfirm-elementor-blog.php:53
+msgid "Select"
+msgstr ""
+
+#: elementor/lawyerfirm-elementor-blog.php:64
+msgid "No. Of Category"
+msgstr ""
+
+#. Name of the template
+msgid "Fullwidth Template"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content.php:64
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:60
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-search.php:42
+msgid "Read More"
+msgstr ""
+
+#: lib/lawyerfirm-tgmp.php:65
+msgid "One Click Demo Import"
+msgstr ""
+
+#: lib/lawyerfirm-tgmp.php:71
+msgid "Elementor"
+msgstr ""
+
+#: lib/lawyerfirm-tgmp.php:77
+msgid "Flawless Themes Demo Import"
+msgstr ""
+
+#. Name of the theme
+msgid "lawyerfirm"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Lawyer Firm is the best lawyer WordPress theme for individual attorneys and "
+"companies. Lawyer Firm is a classic and versatile lawyer WordPress theme "
+"suitable for creating a professional website for lawyers and law firms. "
+"Lawyer Firm theme is based on Elementor page builder so there is no need to "
+"be a professional coder or designer to start making noise on the internet "
+"with Frontline. View Demo at https://demo.flawlessthemes.com/lawyerfirm/"
+msgstr ""
+
+#. Author of the theme
+msgid "flawlessthemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://flawlessthemes.com/"
+msgstr ""
